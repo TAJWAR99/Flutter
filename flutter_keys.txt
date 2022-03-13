@@ -1,0 +1,15 @@
+Remove comments:
+ctrl+H
+//.*
+alt+R
+
+tab
+ctrl+alt+enter
+ctrl+s
+
+How to share app:
+run command in terminal of vscode
+flutter build apk
+
+Comment out lines:
+shift+alt+A
